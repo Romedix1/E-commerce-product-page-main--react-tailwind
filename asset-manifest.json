@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/e-commerce-product-page-main--react-tailwind/static/css/main.e1629208.css",
+    "main.js": "/e-commerce-product-page-main--react-tailwind/static/js/main.bf7f3cf9.js",
+    "index.html": "/e-commerce-product-page-main--react-tailwind/index.html",
+    "main.e1629208.css.map": "/e-commerce-product-page-main--react-tailwind/static/css/main.e1629208.css.map",
+    "main.bf7f3cf9.js.map": "/e-commerce-product-page-main--react-tailwind/static/js/main.bf7f3cf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1629208.css",
+    "static/js/main.bf7f3cf9.js"
+  ]
+}
